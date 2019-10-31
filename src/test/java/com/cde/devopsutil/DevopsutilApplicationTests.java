@@ -8,6 +8,7 @@ class DevopsutilApplicationTests {
 
     @Test
     void contextLoads() {
+        throw new Exception();
     }
 
 }
